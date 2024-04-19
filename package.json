@@ -1,8 +1,11 @@
 {
   "name": "hedon-rust-pack",
-  "displayName": "cretes",
+  "icon": "images/icon.png",
+  "displayName": "hedon-rust-pack",
   "description": "A extension pack contains lots of useful extensions for Rust development.",
-  "version": "0.0.1",
+  "publisher": "hedonwang",
+  "repository": {"url": "https://github.com/hedon-rust-road/vscode-rust-extension-pack"},
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.88.0"
   },
