@@ -1,0 +1,37 @@
+{
+  "name": "hedon-rust-pack",
+  "displayName": "cretes",
+  "description": "A extension pack contains lots of useful extensions for Rust development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "eamodio.gitlens", 
+    "ephoton.indent-switcher", 
+    "esbenp.prettier-vscode", 
+    "hbenl.vscode-test-explorer", 
+    "hdevalke.rust-test-lens", 
+    "humao.rest-client", 
+    "jscearcy.rust-doc-viewer", 
+    "llvm-vs-code-extensions.vscode-clangd", 
+    "mcright.auto-save", 
+    "ms-vscode.test-adapter-converter", 
+    "qvist.jetbrains-new-ui-dark-theme", 
+    "redhat.vscode-yaml", 
+    "rust-lang.rust-analyzer", 
+    "serayuzgur.crates", 
+    "siberianmh.rust-grammar", 
+    "statiolake.vscode-rustfmt", 
+    "swellaby.vscode-rust-test-adapter", 
+    "tamasfe.even-better-toml", 
+    "usernamehw.errorlens", 
+    "vadimcn.vscode-lldb", 
+    "vscode-icons-team.vscode-icons", 
+    "wayou.vscode-todo-highlight"
+  ]
+}
